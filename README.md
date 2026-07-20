@@ -25,6 +25,10 @@ Classificação automática de modulação (AMC) utilizando o dataset
 
 ## Estrutura do repositório
 
+- `notebooks/` → notebook completo (Google Colab)
+- `results/figures/` → figuras geradas (EDA, curvas de treino, matrizes de confusão, etc.)
+- `results/metrics/` → métricas em CSV
+
 ## Dataset
 
 RadioML 2018.01A (DeepSig) — **não incluído no repositório** por tamanho
