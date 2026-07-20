@@ -24,3 +24,18 @@ Classificação automática de modulação (AMC) utilizando o dataset
 | CNN 1D | 0.5532   | 0.5640     | ~1005.6 s       |
 
 ## Estrutura do repositório
+
+## Dataset
+
+RadioML 2018.01A (DeepSig) — **não incluído no repositório** por tamanho
+(~21.45 GB). Necessário baixar separadamente.
+
+## Como executar
+
+1. Abrir o notebook em `notebooks/` no Google Colab.
+2. Montar o Google Drive e apontar o caminho do dataset RadioML 2018.01A.
+3. Executar as células em ordem (EDA → pré-processamento → KNN → MLP → CNN 1D → avaliação).
+
+## Reprodutibilidade
+
+Todos os experimentos usam semente fixa (`SEMENTE = 135`) para Python, NumPy e PyTorch (CPU/GPU).
