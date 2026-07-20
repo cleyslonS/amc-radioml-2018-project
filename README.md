@@ -1,0 +1,26 @@
+# Automatic Modulation Classification (AMC) com RadioML 2018.01A
+
+Trabalho Final da disciplina **PGE00029 – Supervised Machine Learning**,
+Programa de Pós-Graduação em Engenharia Elétrica Interunidades — UNESP.
+
+**Autor:** Cleyslon Junio Pereira dos Santos
+**Docente:** Prof. Dr. Alexandre da Silva Simões
+
+## Objetivo
+
+Classificação automática de modulação (AMC) utilizando o dataset
+**RadioML 2018.01A**, comparando três abordagens supervisionadas:
+
+- **KNN** (baseline)
+- **MLP** (baseline)
+- **CNN 1D** (modelo principal)
+
+## Resultados (conjunto de teste)
+
+| Modelo | Accuracy | F1 (macro) | Tempo de treino |
+|--------|----------|------------|-----------------|
+| KNN    | 0.2012   | 0.1945     | ~0.2 s          |
+| MLP    | 0.1945   | 0.1698     | ~45.8 s         |
+| CNN 1D | 0.5532   | 0.5640     | ~1005.6 s       |
+
+## Estrutura do repositório
