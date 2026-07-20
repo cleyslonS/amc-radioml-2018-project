@@ -1,4 +1,5 @@
-# Automatic Modulation Classification (AMC) com RadioML 2018.01A
+# Comparac¸ao de Modelos Supervisionados na Classificac¸ ˜ ao˜
+Automatica de Modulac¸ ´ oes com o RadioML 2018.01A
 
 Trabalho Final da disciplina **PGE00029 – Supervised Machine Learning**,
 Programa de Pós-Graduação em Engenharia Elétrica Interunidades — UNESP.
