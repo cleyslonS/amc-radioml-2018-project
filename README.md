@@ -1,5 +1,4 @@
-# Comparac¸ao de Modelos Supervisionados na Classificac¸ ˜ ao˜
-Automatica de Modulac¸ ´ oes com o RadioML 2018.01A
+# Comparação de Modelos Supervisionados na Classificação Automática de Modulações com o RadioML 2018.01A
 
 Trabalho Final da disciplina **PGE00029 – Supervised Machine Learning**,
 Programa de Pós-Graduação em Engenharia Elétrica Interunidades — UNESP.
